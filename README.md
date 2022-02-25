@@ -1,5 +1,6 @@
 # Data-Structure-and-Algorithm
 Selected projects completed in CSE 373: Data Structure and Algorithm
+- Detailed course contents and project specifications can be found at https://courses.cs.washington.edu/courses/cse373/21sp/
 
 ## Projects
 1. Deques:  Implemented Deque ADT by Array and Linked List - ArrayDeque.java, LinkedDeque.java
